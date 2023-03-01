@@ -1,0 +1,4 @@
+x=99, y=99
+
+L'operazione x++ viene eseguita 99 volte (0 -> 98).
+Y viene incrementato fino a 99. Quando y raggiunge questo valore il ciclo for termina.

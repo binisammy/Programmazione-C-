@@ -1,0 +1,14 @@
+Esercizio27
+
+a)
+
+5
+6
+1
+
+
+b)
+
+5
+6
+la var c vale: 0
